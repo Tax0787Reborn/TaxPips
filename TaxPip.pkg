@@ -1,0 +1,8 @@
+s=os,system
+cd=os,chdir
+dir=os,listdir
+os,mkdir
+os,rmdir
+rm=os,remove
+pwd=os,getcwd
+shutil,copy
